@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+
+
+
+<html lang="pt-br">
+
+<head>
+    <title>
+        Will
+    </title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+    <a href="#Identificacao">Identificação</a> 
+    <a href="#FormacaoAcademica">Formação Acadêmica</a> 
+    <a href="#ExperienciaProfissional">Experiência Profissional</a> 
+    <a href="#Conhecimento">Conhecimentos</a>
+
+    <h1>Will Smith</h1>
+
+    <hr>
+
+
+
+    <img src="will.jpeg" alt="Foto Curriculum" title="Foto do Will" width="300">
+
+    <br>
+
+
+
+    <ul>
+
+        <li>Nome: Wiil Smith Andrade</li>
+
+        <li>Endereço: Rua Panambi, 41 Acesso A</li>
+
+        <li>Celular: (051) 99899-0432</li>
+
+        <li>Email: wilsmith266@outlook.com.br</li>
+
+    </ul>
+
+
+
+
+
+    <h2 id="Identificacao"> Identificação </h2>
+
+
+
+    <p>
+        Sou o tipo de cara que vai salvar sua empresa.
+    </p>
+
+
+
+    <h2 id="FormacaoAcademica"> Formação Acadêmica </h2>
+
+    <ol>
+
+        <li>Graduação: SENAC de Porto Alegre</li>
+
+        <li>Pós Graduação: Unisinos de Porto Alegre</li>
+
+        <li>Mestrado: Nas Ruas desse mundo</li>
+
+    </ol>
+
+
+
+    <h2 id="ExperienciaProfissional">Experiência Profissional</h2>
+    <dl>
+        <dt>
+            Onde Trabalhou?
+        </dt>
+        <dd>
+            Studios Filmes
+        </dd>
+        <dt>
+            Quantos anos ficou na empresa?
+        </dt>
+        <dd>
+            20 Anos
+        </dd>
+        <dt>
+            Qual motivo de saída?
+        </dt>
+        <dd>
+            Termino de Contrato
+        </dd>
+    </dl>
+
+
+    
+
+
+    <h2 id="Conhecimento">Conhecimentos </h2>
+
+    <table border="1">
+
+        <thead>
+            <tr>
+                <th>Assunto</th>
+                <th>Grau de Conhecimento</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Inglês</td>
+                <td>Avançado</td>
+            </tr>
+            <tr>
+                <td>Informática</td>
+                <td>Intermediário</td>
+            </tr>
+            <tr>
+                <td>Espanhol</td>
+                <td>Avançado</td>
+            </tr>
+            <tr>
+                <td>Informática</td>
+                <td>Intermediário</td>
+            </tr>
+            <tr>
+                <td>Especialista em tributos</td>
+                <td>Intermediário</td>
+            </tr>
+            <tr>
+                <td>Exel</td>
+                <td>Avançado</td>
+            </tr>
+
+        </tbody>
+       
+
+
+
+
+    </table>
+
+</body>
+
+
+
+
+
+</html>
