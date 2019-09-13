@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+
+
+<html lang="pt-br">
+
+
+<body>
+
+        <a href="#ancora">Identificação</a>    <a href="#ancora">Formação Acadêmica</a> <a href="#ancora">Experiência Profissional</a> <a href="#ancora">Conhecimentos</a>
+
+    <h1>Will Smith</h1>
+
+    <hr>
+
+ 
+
+        <img src="C:\Users\João\Desktop\Site\imagens/will.jpg" alt="Foto Curriculum"
+
+            title="Foto do Will" width="300" height="300">
+
+        <br>
+
+ 
+
+        <ul>
+
+            <li>Nome: Wiil Smith Andrade</li>
+
+            <li>Endereço: Rua Panambi, 41 Acesso A</li>
+
+            <li>Celular: (051) 99899-0432</li>
+
+            <li>Email: wilsmith266@outlook.com.br</li>
+
+        </ul>
+
+ 
+
+ 
+
+        <h1 id="ancora"> Identificação </h1>
+
+ 
+
+        <p>
+            Sou o tipo de cara que vai salvar sua empresa.
+        </p>
+
+ 
+
+        <h1 id="ancora"> Formação Acadêmica </h1>
+
+        <ol>
+
+            <li>Graduação: SENAC de Porto Alegre</li>
+
+            <li>Pós Graduação: Unisinos de Porto Alegre</li>
+
+            <li>Mestrado: Nas Ruas desse mundo
+
+        </ol>
+
+ 
+
+        <h1 id="ancora">Experiência Profissional</h1>
+
+           Empresa de Televisão Um maluco no Pedaço 1990-1996
+           <br>Studios Filmes Os Bad Boys 1995
+           <br>Studios Filmes A procura da Felicidade 2006
+           <br>Studios Filmes Eu sou a Lenda 2007
+           <br>Esquadrão Suicida 2016
+
+
+           <h1 a href="#ancora">Conhecimentos</a> </h1>
+           
+           <table>
+                    <thead>
+                     <thead> <th>Assunto</th> <th>Grau de Conhecimento</th> <tr>
+                        <tbody><td>Inglês</td> <td>Avançado</td> <tr> 
+                            <tbody><td>Informática</td> <td>Intermediário</td> <tr>
+                                <tbody><td>Espanhol</td> <td>Avançado</td> <tr>
+                                        <tbody><td>Especialista em tributos</td> <td>Intermediário</td> <tr>
+                                                <tbody><td>Exel</td> <td>Avançado</td> <tr>
+                                        
+
+
+                    </thead>
+                </table>
+
+</body>
+
+ 
+
+ 
+
+</html>
